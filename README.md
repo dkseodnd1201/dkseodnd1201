@@ -8,6 +8,5 @@ I'm Daewoong An, a passionate Backend-developer from Korean
 </ui>
 <br>
 
-
-[![Deawoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkseodnd1201)](https://github.com/dkseodnd1201/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkseodnd1201&layout=compact)](https://github.com/dkseodnd1201/github-readme-stats)
+[![Deawoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkseodnd1201)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkseodnd1201&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
