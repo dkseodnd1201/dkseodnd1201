@@ -4,7 +4,7 @@ I'm Daewoong An, a passionate Backend-developer from Korean
 <ui>
   <li>:book: Blog : <a href="https://velog.io/@dkseodnd1201">Velog</a></li>
   <li>🌱 I’m currently learning SpringBoot</li>
-  <li>📫 Email : <dkseodnd1201@gmail.com>dkseodnd1201@gmail.com</dkseodnd1201@gmail.com> </li>
+  <li>📫 Email : <dkseodnd1201@gmail.com>dkseodnd1201@gmail.com /li>
 </ui>
 
 <br>
