@@ -6,8 +6,7 @@ I'm Daewoong An, a passionate Backend-developer from Korean
   <li>🌱 I’m currently learning SpringBoot</li>
   <li>📫 Email : </li>
 </ui>
-<dkseodnd1201@gmail.com>
-
+--<dkseodnd1201@gmail.com>
 <br>
 
 [![Deawoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkseodnd1201)](https://github.com/anuraghazra/github-readme-stats)
