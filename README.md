@@ -2,7 +2,7 @@
 I'm Daewoong An, a passionate Backend-developer from Korean
 <br>
 
-- :book: Blog : <a href="https://velog.io/@dkseodnd1201">Velog</a></li>
+- :book: Blog : <a href="https://woongzzi.tistory.com/">Tistory</a></li>
 - 🌱 I’m currently learning SpringBoot
 - 📫 Email : dkseodnd1201@gmail.com
 </ui>
