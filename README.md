@@ -8,7 +8,7 @@ I'm Daewoong An, a passionate Backend-developer from Korean
 </ui>
 
 ### 학력
-- 연성대학교 컴퓨터 소프트웨어과(졸업)
+- 연성대학교 컴퓨터 소프트웨어과(2022.02 - 졸업)
 
 ### 자격증
 - 정보처리 산업기사(2021.11)
